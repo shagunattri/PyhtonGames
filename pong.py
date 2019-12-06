@@ -39,12 +39,12 @@ ball.shape("square")
 ball.color("white")
 ball.penup()  #stop making lines as the move in the turtle module
 ball.goto(0,0)
-ball.dx = 0.2
-ball.dy = 0.2
+ball.dx = 0.5
+ball.dy = 0.5
 
 #pen
 pen = turtle.Turtle()
-pen.speed(0)
+pen.speed(1)
 pen.color("white")
 pen.shape("square")
 pen.penup()
