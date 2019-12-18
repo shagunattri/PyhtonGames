@@ -118,3 +118,6 @@ print('Birthday: ' + str(bday_date))
 unoday = timedelta(weeks=1)
 week = bday_date - unoday
 print('Week before birthday: ' + str(week))
+
+
+print('HI')
