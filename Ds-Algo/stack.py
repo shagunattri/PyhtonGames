@@ -21,13 +21,13 @@ class Stack():
         return self.items
     
 
-s = Stack()
-s.push('A')
-print('Is Stack Empty: ' + str(s.is_empty()))
-s.push('B')
-s.push('C')
-s.pop()
-s.push('D')
-print('At the Peak: ' + s.peek())
-print('     Stack:      ')
-print(s.get_stack())
+# s = Stack()
+# s.push('A')
+# print('Is Stack Empty: ' + str(s.is_empty()))
+# s.push('B')
+# s.push('C')
+# s.pop()
+# s.push('D')
+# print('At the Peak: ' + s.peek())
+# print('     Stack:      ')
+# print(s.get_stack())
