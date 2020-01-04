@@ -7,7 +7,13 @@ This repo contains all kinds of Python scripts and snippets ranging from Automat
     
 ### Modules and Libraries used
 
--socket
--math
--random
--os
+socket
+
+
+math
+
+
+random
+
+
+os
