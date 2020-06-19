@@ -20,7 +20,7 @@ person_dict['City']='Chennai'
 person_json = json.dumps(person_dict)
 print(person_json)
 
-# create staff divtionary which assigns a person to a role
+# create staff dictionary which assigns a person to a role
 staff_dict ={}
 staff_dict['Program Manager']=person_dict
 
